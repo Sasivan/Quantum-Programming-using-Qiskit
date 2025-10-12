@@ -1,4 +1,4 @@
-# Qiskit 1-Qubit Verification (Qiskit 2.x)
+te # Qiskit 1-Qubit Verification (Qiskit 2.x)
 
 This repository contains a simple Qiskit program to verify installation and demonstrate the basics of **quantum circuits** using the **AerSimulator**.
 
